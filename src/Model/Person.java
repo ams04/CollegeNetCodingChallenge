@@ -2,6 +2,12 @@ package Model;
 
 import java.util.List;
 
+/**
+ * @author Akshay
+ * 
+ * This is a pojo for a Person object.
+ *
+ */
 public class Person {
 
 	private String firstName;
